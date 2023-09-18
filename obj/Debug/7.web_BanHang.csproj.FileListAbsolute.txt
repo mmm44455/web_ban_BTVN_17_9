@@ -1,0 +1,10 @@
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\bin\web_BanHang.dll.config
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\bin\web_BanHang.dll
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\bin\web_BanHang.pdb
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\bin\Newtonsoft.Json.dll
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\bin\Newtonsoft.Json.xml
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\obj\Debug\7.web_BanHang.csproj.AssemblyReference.cache
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\obj\Debug\7.web_BanHang.csproj.CoreCompileInputs.cache
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\obj\Debug\7.web_BanHang.csproj.CopyComplete
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\obj\Debug\web_BanHang.dll
+D:\Dev C++\lập trình trong window\laptrinhweb56KMt\LapTrinhWeb56kmt\web_BanHang\obj\Debug\web_BanHang.pdb
